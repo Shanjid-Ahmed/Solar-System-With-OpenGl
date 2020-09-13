@@ -1,0 +1,2 @@
+this solar system work as if you click left mouse button it will rotate anti clock wise and if click right mouse button it will
+rotate clock wise.
